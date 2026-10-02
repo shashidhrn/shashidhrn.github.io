@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Hi, I'm Shashidhar 👋
 
-You can use the [editor on GitHub](https://github.com/shashidhrn/shashidhrn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Principal engineer in Bengaluru with 15 years of building distributed systems in FinTech, and earlier work on aviation and cloud platforms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm now going hands-on with AI engineering: making applications and agents reliable, observable and testable in production. I learn by building in public and writing about what breaks.
 
-### Markdown
+### Currently building
+**[mcp-agent-reliability-lab](https://github.com/shashidhrn/mcp-agent-reliability-lab)**: a fault-injection and evaluation harness for MCP tool-using agents, using synthetic data only.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I write about
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Find me
+- Blog: [shashidhrn.github.io](https://shashidhrn.github.io)
+- Email: [hello.shashidhar.dev@gmail.com](mailto:hello.shashidhar.dev@gmail.com)
+- LinkedIn: www.linkedin.com/in/nshashidhar
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shashidhrn/shashidhrn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<sub>Views and projects here are my own, built on personal time</sub>
